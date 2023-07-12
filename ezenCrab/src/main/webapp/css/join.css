@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 10px;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+.wrap {
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.join{
+	margin-bottom: 15px;
+}
+
+.bt_wrap a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
